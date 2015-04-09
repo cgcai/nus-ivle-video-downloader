@@ -14,5 +14,8 @@ A quick hack to download webcasts for offline viewing.
 ## Known Issues
 This is a hack. We don't handle errors.
 
+## Why does the downloaded file only have audio?
+Probably the fault of the webcast. (This is why you should actually attend lectures.)
+
 ## Why Selenium?
 Because IVLE's media server uses JavaScript to create the `<video>` tag.
